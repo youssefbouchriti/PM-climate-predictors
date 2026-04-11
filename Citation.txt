@@ -1,0 +1,18 @@
+@article{author2026climatic,
+  title={Climatic determinants of fine particulate matter (PM2.5) in a semi-arid environment in Morocco: Contributions from machine learning and spatiotemporal analysis},
+  author={[Last Name, First Initial] and [Co-authors]},
+  journal={[Journal Name]},
+  volume={XX},
+  pages={XXX-XXX},
+  year={2026},
+  doi={XX.XXXX/XXXXXX}
+}
+
+@misc{script2026,
+  author = {[Your Name]},
+  title = {Random Forest-Based Modeling for PM2.5 Prediction in Semi-Arid Morocco},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/your-username/random-forest-pm25-morocco}}
+}

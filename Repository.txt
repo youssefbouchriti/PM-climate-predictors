@@ -1,0 +1,29 @@
+
+---
+
+## 📁 Fichiers complémentaires à créer
+
+Pour un dépôt complet, créez également :
+
+### 1. `.gitignore`
+
+```gitignore
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Output files
+*.rds
+*.tiff
+*.emf
+*.html
+outputs/
+
+# Excel temporary files
+~$*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db

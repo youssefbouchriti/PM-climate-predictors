@@ -1,0 +1,14 @@
+random-forest-pm25-morocco/
+│
+├── README.md                              # This file
+├── random_forest_pm25_analysis.R          # Main R script (complete)
+├── PM.xlsx                                 # Input data (optional)
+├── LICENSE                                 # MIT License
+├── .gitignore                              # R-specific ignore file
+│
+└── outputs/                                # Generated at runtime
+    ├── *.rds                               # Saved models and metrics
+    ├── *.csv                               # Statistical tables
+    ├── *.tiff                              # Publication figures (600 dpi)
+    ├── *.emf                               # Vector figures for journals
+    └── *.html                              # Formatted HTML tables
